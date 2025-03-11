@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "y9upQeb1R2xMZKVu8oUvYREj3Dvr9OWrJKaK3SgYJ8w=",
+  "Source": "TakeAPeek-server",
+  "BasePath": "_content/TakeAPeek-server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
