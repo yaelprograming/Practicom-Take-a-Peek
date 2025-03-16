@@ -21,7 +21,6 @@ namespace TakeAPeek_server.Services.CServices
             public async Task<IEnumerable<User>> GetAllUsers()
             {
                 return await _context.Users.ToListAsync();
-
             }
 
             public async Task<User> CreateUser(User User)
@@ -47,6 +46,17 @@ namespace TakeAPeek_server.Services.CServices
                 await _context.SaveChangesAsync();
                 return true;
             }
+
+        public async Task<string> AuthenticateAsync(string username, string password)
+        {
+            User user = await _context.Users.FindAsync(username);
+            if (user == null || !user.Password.Equals(password))
+            {
+                return null;
+            }
+
+            return "succed";
         }
+    }
     }
 

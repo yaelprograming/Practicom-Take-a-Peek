@@ -10,5 +10,6 @@
         public DateTime CreatedAt { get; set; } // Corresponds to created_at DATETIME DEFAULT CURRENT_TIMESTAMP
         public DateTime UpdatedAt { get; set; } // Corresponds to updated_at DATETIME DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
 
+        public string Role { get; set; } // Corresponds to role ENUM('user', 'admin') DEFAULT 'user'
     }
 }

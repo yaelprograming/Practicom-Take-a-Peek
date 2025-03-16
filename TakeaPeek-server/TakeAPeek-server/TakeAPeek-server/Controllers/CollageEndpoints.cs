@@ -30,19 +30,19 @@ namespace TakeAPeek_server.Controllers
     {
         public static void MapCollageEndpoints(WebApplication app)
         {
-            app.MapGet("/collages", async (ICollageService collageService) => await collageService.GetAllCollages());
+            app.MapGet("/collages", async (ICollageService collageService) => await collageService.GetAllCollages()).RequireAuthorization();
 
-            app.MapGet("/collages/{id}", async (int id, ICollageService collageService) => await collageService.GetCollage(id));
+            app.MapGet("/collages/{id}", async (int id, ICollageService collageService) => await collageService.GetCollage(id)).RequireAuthorization();
 
-            app.MapPost("/collages", async (Collage collage, ICollageService collageService) => await collageService.CreateCollage(collage));
+            app.MapPost("/collages", async (Collage collage, ICollageService collageService) => await collageService.CreateCollage(collage)).RequireAuthorization("Editor", "Admin");
 
             app.MapPut("/collages/{id}", async (int id, Collage collage, ICollageService collageService) =>
             {
                 collage.Id = id; // לוודא שה-ID מעודכן
                 return await collageService.UpdateCollage(collage);
-            });
+            }).RequireAuthorization("Editor", "Admin");
 
-            app.MapDelete("/collages/{id}", async (int id, ICollageService collageService) => await collageService.DeleteCollage(id));
+            app.MapDelete("/collages/{id}", async (int id, ICollageService collageService) => await collageService.DeleteCollage(id)).RequireAuthorization("Editor", "Admin");
         }
     }
 

@@ -13,8 +13,5 @@ namespace TakeAPeek_server.DataAccess
         public DbSet<Folder> Folders { get; set; }
         public DbSet<Tag> Tags { get; set; }
         public DbSet<Collage> Collages { get; set; }
-
-
-
     }
 }

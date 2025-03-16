@@ -30,19 +30,19 @@ namespace TakeAPeek_server.Controllers
     {
         public static void MapTagEndpoints(WebApplication app)
         {
-            app.MapGet("/tags", async (ITagService tagService) => await tagService.GetAllTags());
+            app.MapGet("/tags", async (ITagService tagService) => await tagService.GetAllTags()).RequireAuthorization();
 
-            app.MapGet("/tags/{id}", async (int id, ITagService tagService) => await tagService.GetTag(id));
+            app.MapGet("/tags/{id}", async (int id, ITagService tagService) => await tagService.GetTag(id)).RequireAuthorization();
 
-            app.MapPost("/tags", async (Tag tag, ITagService tagService) => await tagService.CreateTag(tag));
+            app.MapPost("/tags", async (Tag tag, ITagService tagService) => await tagService.CreateTag(tag)).RequireAuthorization("Editor", "Admin");
 
             app.MapPut("/tags/{id}", async (int id, Tag tag, ITagService tagService) =>
             {
                 tag.Id = id; // לוודא שה-ID מעודכן
                 return await tagService.UpdateTag(tag);
-            });
+            }).RequireAuthorization("Editor", "Admin");
 
-            app.MapDelete("/tags/{id}", async (int id, ITagService tagService) => await tagService.DeleteTag(id));
+            app.MapDelete("/tags/{id}", async (int id, ITagService tagService) => await tagService.DeleteTag(id)).RequireAuthorization("Editor", "Admin");
         }
     }
 

@@ -3,60 +3,100 @@
   "WorkspaceRootPath": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{56DD2C33-A2D5-436C-8F83-800BD92EFD5C}|TakeAPeek-server\\TakeAPeek-server.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-takeapeek\\takeapeek-server\\takeapeek-server\\takeapeek-server\\services\\cservices\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56DD2C33-A2D5-436C-8F83-800BD92EFD5C}|TakeAPeek-server\\TakeAPeek-server.csproj|solutionrelative:takeapeek-server\\services\\cservices\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{56DD2C33-A2D5-436C-8F83-800BD92EFD5C}|TakeAPeek-server\\TakeAPeek-server.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-takeapeek\\takeapeek-server\\takeapeek-server\\takeapeek-server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{56DD2C33-A2D5-436C-8F83-800BD92EFD5C}|TakeAPeek-server\\TakeAPeek-server.csproj|solutionrelative:takeapeek-server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56DD2C33-A2D5-436C-8F83-800BD92EFD5C}|TakeAPeek-server\\TakeAPeek-server.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-takeapeek\\takeapeek-server\\takeapeek-server\\takeapeek-server\\services\\cservices\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56DD2C33-A2D5-436C-8F83-800BD92EFD5C}|TakeAPeek-server\\TakeAPeek-server.csproj|solutionrelative:takeapeek-server\\services\\cservices\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{56DD2C33-A2D5-436C-8F83-800BD92EFD5C}|TakeAPeek-server\\TakeAPeek-server.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-takeapeek\\takeapeek-server\\takeapeek-server\\takeapeek-server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{56DD2C33-A2D5-436C-8F83-800BD92EFD5C}|TakeAPeek-server\\TakeAPeek-server.csproj|solutionrelative:takeapeek-server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{56DD2C33-A2D5-436C-8F83-800BD92EFD5C}|TakeAPeek-server\\TakeAPeek-server.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-takeapeek\\takeapeek-server\\takeapeek-server\\takeapeek-server\\controllers\\authendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56DD2C33-A2D5-436C-8F83-800BD92EFD5C}|TakeAPeek-server\\TakeAPeek-server.csproj|solutionrelative:takeapeek-server\\controllers\\authendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{56DD2C33-A2D5-436C-8F83-800BD92EFD5C}|TakeAPeek-server\\TakeAPeek-server.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-takeapeek\\takeapeek-server\\takeapeek-server\\takeapeek-server\\controllers\\collageendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{56DD2C33-A2D5-436C-8F83-800BD92EFD5C}|TakeAPeek-server\\TakeAPeek-server.csproj|solutionrelative:takeapeek-server\\controllers\\collageendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56DD2C33-A2D5-436C-8F83-800BD92EFD5C}|TakeAPeek-server\\TakeAPeek-server.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-takeapeek\\takeapeek-server\\takeapeek-server\\takeapeek-server\\services\\cservices\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56DD2C33-A2D5-436C-8F83-800BD92EFD5C}|TakeAPeek-server\\TakeAPeek-server.csproj|solutionrelative:takeapeek-server\\services\\cservices\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56DD2C33-A2D5-436C-8F83-800BD92EFD5C}|TakeAPeek-server\\TakeAPeek-server.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-takeapeek\\takeapeek-server\\takeapeek-server\\takeapeek-server\\controllers\\folderendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56DD2C33-A2D5-436C-8F83-800BD92EFD5C}|TakeAPeek-server\\TakeAPeek-server.csproj|solutionrelative:takeapeek-server\\controllers\\folderendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56DD2C33-A2D5-436C-8F83-800BD92EFD5C}|TakeAPeek-server\\TakeAPeek-server.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-takeapeek\\takeapeek-server\\takeapeek-server\\takeapeek-server\\controllers\\tagendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56DD2C33-A2D5-436C-8F83-800BD92EFD5C}|TakeAPeek-server\\TakeAPeek-server.csproj|solutionrelative:takeapeek-server\\controllers\\tagendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{56DD2C33-A2D5-436C-8F83-800BD92EFD5C}|TakeAPeek-server\\TakeAPeek-server.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-takeapeek\\takeapeek-server\\takeapeek-server\\takeapeek-server\\controllers\\userendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{56DD2C33-A2D5-436C-8F83-800BD92EFD5C}|TakeAPeek-server\\TakeAPeek-server.csproj|solutionrelative:takeapeek-server\\controllers\\userendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56DD2C33-A2D5-436C-8F83-800BD92EFD5C}|TakeAPeek-server\\TakeAPeek-server.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-takeapeek\\takeapeek-server\\takeapeek-server\\takeapeek-server\\dataaccess\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56DD2C33-A2D5-436C-8F83-800BD92EFD5C}|TakeAPeek-server\\TakeAPeek-server.csproj|solutionrelative:takeapeek-server\\dataaccess\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56DD2C33-A2D5-436C-8F83-800BD92EFD5C}|TakeAPeek-server\\TakeAPeek-server.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-takeapeek\\takeapeek-server\\takeapeek-server\\takeapeek-server\\services\\cservices\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56DD2C33-A2D5-436C-8F83-800BD92EFD5C}|TakeAPeek-server\\TakeAPeek-server.csproj|solutionrelative:takeapeek-server\\services\\cservices\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56DD2C33-A2D5-436C-8F83-800BD92EFD5C}|TakeAPeek-server\\TakeAPeek-server.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-takeapeek\\takeapeek-server\\takeapeek-server\\takeapeek-server\\controllers\\fileendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56DD2C33-A2D5-436C-8F83-800BD92EFD5C}|TakeAPeek-server\\TakeAPeek-server.csproj|solutionrelative:takeapeek-server\\controllers\\fileendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56DD2C33-A2D5-436C-8F83-800BD92EFD5C}|TakeAPeek-server\\TakeAPeek-server.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-takeapeek\\takeapeek-server\\takeapeek-server\\takeapeek-server\\services\\cservices\\folderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56DD2C33-A2D5-436C-8F83-800BD92EFD5C}|TakeAPeek-server\\TakeAPeek-server.csproj|solutionrelative:takeapeek-server\\services\\cservices\\folderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56DD2C33-A2D5-436C-8F83-800BD92EFD5C}|TakeAPeek-server\\TakeAPeek-server.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-takeapeek\\takeapeek-server\\takeapeek-server\\takeapeek-server\\takeapeek-server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{56DD2C33-A2D5-436C-8F83-800BD92EFD5C}|TakeAPeek-server\\TakeAPeek-server.csproj|solutionrelative:takeapeek-server\\takeapeek-server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\Migrations\\20250316151504_TakeAPeekTow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TakeAPeek-server\\Migrations\\20250316151504_TakeAPeekTow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{56DD2C33-A2D5-436C-8F83-800BD92EFD5C}|TakeAPeek-server\\TakeAPeek-server.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-takeapeek\\takeapeek-server\\takeapeek-server\\takeapeek-server\\services\\iservices\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{56DD2C33-A2D5-436C-8F83-800BD92EFD5C}|TakeAPeek-server\\TakeAPeek-server.csproj|solutionrelative:takeapeek-server\\services\\iservices\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{56DD2C33-A2D5-436C-8F83-800BD92EFD5C}|TakeAPeek-server\\TakeAPeek-server.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-takeapeek\\takeapeek-server\\takeapeek-server\\takeapeek-server\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56DD2C33-A2D5-436C-8F83-800BD92EFD5C}|TakeAPeek-server\\TakeAPeek-server.csproj|solutionrelative:takeapeek-server\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56DD2C33-A2D5-436C-8F83-800BD92EFD5C}|TakeAPeek-server\\TakeAPeek-server.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-takeapeek\\takeapeek-server\\takeapeek-server\\takeapeek-server\\controllers\\fileendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56DD2C33-A2D5-436C-8F83-800BD92EFD5C}|TakeAPeek-server\\TakeAPeek-server.csproj|solutionrelative:takeapeek-server\\controllers\\fileendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56DD2C33-A2D5-436C-8F83-800BD92EFD5C}|TakeAPeek-server\\TakeAPeek-server.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-takeapeek\\takeapeek-server\\takeapeek-server\\takeapeek-server\\controllers\\tagendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56DD2C33-A2D5-436C-8F83-800BD92EFD5C}|TakeAPeek-server\\TakeAPeek-server.csproj|solutionrelative:takeapeek-server\\controllers\\tagendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56DD2C33-A2D5-436C-8F83-800BD92EFD5C}|TakeAPeek-server\\TakeAPeek-server.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-takeapeek\\takeapeek-server\\takeapeek-server\\takeapeek-server\\controllers\\folderendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56DD2C33-A2D5-436C-8F83-800BD92EFD5C}|TakeAPeek-server\\TakeAPeek-server.csproj|solutionrelative:takeapeek-server\\controllers\\folderendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\Migrations\\20250316125048_TakeAPeek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TakeAPeek-server\\Migrations\\20250316125048_TakeAPeek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56DD2C33-A2D5-436C-8F83-800BD92EFD5C}|TakeAPeek-server\\TakeAPeek-server.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-takeapeek\\takeapeek-server\\takeapeek-server\\takeapeek-server\\dataaccess\\designtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56DD2C33-A2D5-436C-8F83-800BD92EFD5C}|TakeAPeek-server\\TakeAPeek-server.csproj|solutionrelative:takeapeek-server\\dataaccess\\designtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\Migrations\\20250316124634_TakeAPeek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TakeAPeek-server\\Migrations\\20250316124634_TakeAPeek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56DD2C33-A2D5-436C-8F83-800BD92EFD5C}|TakeAPeek-server\\TakeAPeek-server.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-takeapeek\\takeapeek-server\\takeapeek-server\\takeapeek-server\\dataaccess\\idatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56DD2C33-A2D5-436C-8F83-800BD92EFD5C}|TakeAPeek-server\\TakeAPeek-server.csproj|solutionrelative:takeapeek-server\\dataaccess\\idatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{56DD2C33-A2D5-436C-8F83-800BD92EFD5C}|TakeAPeek-server\\TakeAPeek-server.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-takeapeek\\takeapeek-server\\takeapeek-server\\takeapeek-server\\services\\cservices\\collageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{56DD2C33-A2D5-436C-8F83-800BD92EFD5C}|TakeAPeek-server\\TakeAPeek-server.csproj|solutionrelative:takeapeek-server\\services\\cservices\\collageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56DD2C33-A2D5-436C-8F83-800BD92EFD5C}|TakeAPeek-server\\TakeAPeek-server.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-takeapeek\\takeapeek-server\\takeapeek-server\\takeapeek-server\\dataaccess\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56DD2C33-A2D5-436C-8F83-800BD92EFD5C}|TakeAPeek-server\\TakeAPeek-server.csproj|solutionrelative:takeapeek-server\\dataaccess\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56DD2C33-A2D5-436C-8F83-800BD92EFD5C}|TakeAPeek-server\\TakeAPeek-server.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-takeapeek\\takeapeek-server\\takeapeek-server\\takeapeek-server\\entities\\collage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56DD2C33-A2D5-436C-8F83-800BD92EFD5C}|TakeAPeek-server\\TakeAPeek-server.csproj|solutionrelative:takeapeek-server\\entities\\collage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56DD2C33-A2D5-436C-8F83-800BD92EFD5C}|TakeAPeek-server\\TakeAPeek-server.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-takeapeek\\takeapeek-server\\takeapeek-server\\takeapeek-server\\entities\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56DD2C33-A2D5-436C-8F83-800BD92EFD5C}|TakeAPeek-server\\TakeAPeek-server.csproj|solutionrelative:takeapeek-server\\entities\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56DD2C33-A2D5-436C-8F83-800BD92EFD5C}|TakeAPeek-server\\TakeAPeek-server.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-takeapeek\\takeapeek-server\\takeapeek-server\\takeapeek-server\\takeapeek-server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{56DD2C33-A2D5-436C-8F83-800BD92EFD5C}|TakeAPeek-server\\TakeAPeek-server.csproj|solutionrelative:takeapeek-server\\takeapeek-server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56DD2C33-A2D5-436C-8F83-800BD92EFD5C}|TakeAPeek-server\\TakeAPeek-server.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-takeapeek\\takeapeek-server\\takeapeek-server\\takeapeek-server\\services\\cservices\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56DD2C33-A2D5-436C-8F83-800BD92EFD5C}|TakeAPeek-server\\TakeAPeek-server.csproj|solutionrelative:takeapeek-server\\services\\cservices\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56DD2C33-A2D5-436C-8F83-800BD92EFD5C}|TakeAPeek-server\\TakeAPeek-server.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-takeapeek\\takeapeek-server\\takeapeek-server\\takeapeek-server\\services\\cservices\\folderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56DD2C33-A2D5-436C-8F83-800BD92EFD5C}|TakeAPeek-server\\TakeAPeek-server.csproj|solutionrelative:takeapeek-server\\services\\cservices\\folderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{56DD2C33-A2D5-436C-8F83-800BD92EFD5C}|TakeAPeek-server\\TakeAPeek-server.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-takeapeek\\takeapeek-server\\takeapeek-server\\takeapeek-server\\services\\cservices\\tagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -79,28 +119,12 @@
       "RelativeMoniker": "D:0:0:{56DD2C33-A2D5-436C-8F83-800BD92EFD5C}|TakeAPeek-server\\TakeAPeek-server.csproj|solutionrelative:takeapeek-server\\services\\iservices\\itagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56DD2C33-A2D5-436C-8F83-800BD92EFD5C}|TakeAPeek-server\\TakeAPeek-server.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-takeapeek\\takeapeek-server\\takeapeek-server\\takeapeek-server\\dataaccess\\idatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56DD2C33-A2D5-436C-8F83-800BD92EFD5C}|TakeAPeek-server\\TakeAPeek-server.csproj|solutionrelative:takeapeek-server\\dataaccess\\idatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56DD2C33-A2D5-436C-8F83-800BD92EFD5C}|TakeAPeek-server\\TakeAPeek-server.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-takeapeek\\takeapeek-server\\takeapeek-server\\takeapeek-server\\entities\\collage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56DD2C33-A2D5-436C-8F83-800BD92EFD5C}|TakeAPeek-server\\TakeAPeek-server.csproj|solutionrelative:takeapeek-server\\entities\\collage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{56DD2C33-A2D5-436C-8F83-800BD92EFD5C}|TakeAPeek-server\\TakeAPeek-server.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-takeapeek\\takeapeek-server\\takeapeek-server\\takeapeek-server\\entities\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{56DD2C33-A2D5-436C-8F83-800BD92EFD5C}|TakeAPeek-server\\TakeAPeek-server.csproj|solutionrelative:takeapeek-server\\entities\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{56DD2C33-A2D5-436C-8F83-800BD92EFD5C}|TakeAPeek-server\\TakeAPeek-server.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-takeapeek\\takeapeek-server\\takeapeek-server\\takeapeek-server\\entities\\folder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{56DD2C33-A2D5-436C-8F83-800BD92EFD5C}|TakeAPeek-server\\TakeAPeek-server.csproj|solutionrelative:takeapeek-server\\entities\\folder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56DD2C33-A2D5-436C-8F83-800BD92EFD5C}|TakeAPeek-server\\TakeAPeek-server.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-takeapeek\\takeapeek-server\\takeapeek-server\\takeapeek-server\\entities\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56DD2C33-A2D5-436C-8F83-800BD92EFD5C}|TakeAPeek-server\\TakeAPeek-server.csproj|solutionrelative:takeapeek-server\\entities\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56DD2C33-A2D5-436C-8F83-800BD92EFD5C}|TakeAPeek-server\\TakeAPeek-server.csproj|d:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-takeapeek\\takeapeek-server\\takeapeek-server\\takeapeek-server\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56DD2C33-A2D5-436C-8F83-800BD92EFD5C}|TakeAPeek-server\\TakeAPeek-server.csproj|solutionrelative:takeapeek-server\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -110,7 +134,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -119,97 +143,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\appsettings.json",
-              "RelativeDocumentMoniker": "TakeAPeek-server\\appsettings.json",
-              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\appsettings.json*",
-              "RelativeToolTip": "TakeAPeek-server\\appsettings.json*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-10T21:02:34.709Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\Services\\CServices\\UserService.cs",
-              "RelativeDocumentMoniker": "TakeAPeek-server\\Services\\CServices\\UserService.cs",
-              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\Services\\CServices\\UserService.cs",
-              "RelativeToolTip": "TakeAPeek-server\\Services\\CServices\\UserService.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAhwBkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T03:09:58.747Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\Program.cs",
               "RelativeDocumentMoniker": "TakeAPeek-server\\Program.cs",
-              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\Program.cs*",
-              "RelativeToolTip": "TakeAPeek-server\\Program.cs*",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\Program.cs",
+              "RelativeToolTip": "TakeAPeek-server\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAC8AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-10T20:06:23.407Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DataContext.cs",
-              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\DataAccess\\DataContext.cs",
-              "RelativeDocumentMoniker": "TakeAPeek-server\\DataAccess\\DataContext.cs",
-              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\DataAccess\\DataContext.cs*",
-              "RelativeToolTip": "TakeAPeek-server\\DataAccess\\DataContext.cs*",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T03:37:20.081Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FileService.cs",
-              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\Services\\CServices\\FileService.cs",
-              "RelativeDocumentMoniker": "TakeAPeek-server\\Services\\CServices\\FileService.cs",
-              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\Services\\CServices\\FileService.cs",
-              "RelativeToolTip": "TakeAPeek-server\\Services\\CServices\\FileService.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAmwBsAAABaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T17:41:37.823Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "FileEndpoints.cs",
-              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\Controllers\\FileEndpoints.cs",
-              "RelativeDocumentMoniker": "TakeAPeek-server\\Controllers\\FileEndpoints.cs",
-              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\Controllers\\FileEndpoints.cs",
-              "RelativeToolTip": "TakeAPeek-server\\Controllers\\FileEndpoints.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAgwCAAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T19:22:00.955Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UserEndpoints.cs",
-              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\Controllers\\UserEndpoints.cs",
-              "RelativeDocumentMoniker": "TakeAPeek-server\\Controllers\\UserEndpoints.cs",
-              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\Controllers\\UserEndpoints.cs",
-              "RelativeToolTip": "TakeAPeek-server\\Controllers\\UserEndpoints.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAQwBoAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T19:29:01.713Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\Services\\CServices\\AuthService.cs",
+              "RelativeDocumentMoniker": "TakeAPeek-server\\Services\\CServices\\AuthService.cs",
+              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\Services\\CServices\\AuthService.cs",
+              "RelativeToolTip": "TakeAPeek-server\\Services\\CServices\\AuthService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA1wCwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T13:05:26.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250316151504_TakeAPeekTow.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\Migrations\\20250316151504_TakeAPeekTow.cs",
+              "RelativeDocumentMoniker": "TakeAPeek-server\\Migrations\\20250316151504_TakeAPeekTow.cs",
+              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\Migrations\\20250316151504_TakeAPeekTow.cs",
+              "RelativeToolTip": "TakeAPeek-server\\Migrations\\20250316151504_TakeAPeekTow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T15:15:04.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\Services\\CServices\\UserService.cs",
+              "RelativeDocumentMoniker": "TakeAPeek-server\\Services\\CServices\\UserService.cs",
+              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\Services\\CServices\\UserService.cs",
+              "RelativeToolTip": "TakeAPeek-server\\Services\\CServices\\UserService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAUwDMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T03:09:58.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthEndPoint.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\Controllers\\AuthEndPoint.cs",
+              "RelativeDocumentMoniker": "TakeAPeek-server\\Controllers\\AuthEndPoint.cs",
+              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\Controllers\\AuthEndPoint.cs",
+              "RelativeToolTip": "TakeAPeek-server\\Controllers\\AuthEndPoint.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T13:43:03.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "CollageEndpoints.cs",
               "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\Controllers\\CollageEndpoints.cs",
               "RelativeDocumentMoniker": "TakeAPeek-server\\Controllers\\CollageEndpoints.cs",
@@ -222,26 +220,65 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TagEndpoints.cs",
-              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\Controllers\\TagEndpoints.cs",
-              "RelativeDocumentMoniker": "TakeAPeek-server\\Controllers\\TagEndpoints.cs",
-              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\Controllers\\TagEndpoints.cs",
-              "RelativeToolTip": "TakeAPeek-server\\Controllers\\TagEndpoints.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T19:27:48.248Z",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\appsettings.json",
+              "RelativeDocumentMoniker": "TakeAPeek-server\\appsettings.json",
+              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\appsettings.json",
+              "RelativeToolTip": "TakeAPeek-server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-10T21:02:34.709Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
+              "Title": "UserEndpoints.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\Controllers\\UserEndpoints.cs",
+              "RelativeDocumentMoniker": "TakeAPeek-server\\Controllers\\UserEndpoints.cs",
+              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\Controllers\\UserEndpoints.cs",
+              "RelativeToolTip": "TakeAPeek-server\\Controllers\\UserEndpoints.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T19:29:01.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\Services\\IServices\\IUserService.cs",
+              "RelativeDocumentMoniker": "TakeAPeek-server\\Services\\IServices\\IUserService.cs",
+              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\Services\\IServices\\IUserService.cs",
+              "RelativeToolTip": "TakeAPeek-server\\Services\\IServices\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T19:30:42.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "TakeAPeek-server\\Entities\\User.cs",
+              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\Entities\\User.cs",
+              "RelativeToolTip": "TakeAPeek-server\\Entities\\User.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T02:59:46.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "FolderEndpoints.cs",
               "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\Controllers\\FolderEndpoints.cs",
               "RelativeDocumentMoniker": "TakeAPeek-server\\Controllers\\FolderEndpoints.cs",
               "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\Controllers\\FolderEndpoints.cs",
               "RelativeToolTip": "TakeAPeek-server\\Controllers\\FolderEndpoints.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAACGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-10T19:27:04.069Z",
               "EditorCaption": ""
@@ -249,51 +286,77 @@
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "FolderService.cs",
-              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\Services\\CServices\\FolderService.cs",
-              "RelativeDocumentMoniker": "TakeAPeek-server\\Services\\CServices\\FolderService.cs",
-              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\Services\\CServices\\FolderService.cs",
-              "RelativeToolTip": "TakeAPeek-server\\Services\\CServices\\FolderService.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAIAwwCEAAABfAAAAAAAAAA==",
+              "Title": "FileEndpoints.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\Controllers\\FileEndpoints.cs",
+              "RelativeDocumentMoniker": "TakeAPeek-server\\Controllers\\FileEndpoints.cs",
+              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\Controllers\\FileEndpoints.cs",
+              "RelativeToolTip": "TakeAPeek-server\\Controllers\\FileEndpoints.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T18:17:12.61Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\Services\\IServices\\IUserService.cs",
-              "RelativeDocumentMoniker": "TakeAPeek-server\\Services\\IServices\\IUserService.cs",
-              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\Services\\IServices\\IUserService.cs",
-              "RelativeToolTip": "TakeAPeek-server\\Services\\IServices\\IUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T19:30:42.551Z",
+              "WhenOpened": "2025-03-10T19:22:00.955Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "TakeAPeek-server.csproj",
-              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\TakeAPeek-server.csproj",
-              "RelativeDocumentMoniker": "TakeAPeek-server\\TakeAPeek-server.csproj",
-              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\TakeAPeek-server.csproj",
-              "RelativeToolTip": "TakeAPeek-server\\TakeAPeek-server.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-09T02:53:17.657Z",
+              "Title": "TagEndpoints.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\Controllers\\TagEndpoints.cs",
+              "RelativeDocumentMoniker": "TakeAPeek-server\\Controllers\\TagEndpoints.cs",
+              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\Controllers\\TagEndpoints.cs",
+              "RelativeToolTip": "TakeAPeek-server\\Controllers\\TagEndpoints.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACwAAACZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T19:27:48.248Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "20250316125048_TakeAPeek.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\Migrations\\20250316125048_TakeAPeek.cs",
+              "RelativeDocumentMoniker": "TakeAPeek-server\\Migrations\\20250316125048_TakeAPeek.cs",
+              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\Migrations\\20250316125048_TakeAPeek.cs",
+              "RelativeToolTip": "TakeAPeek-server\\Migrations\\20250316125048_TakeAPeek.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T12:50:49.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DesignTimeDbContextFactory.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\DataAccess\\DesignTimeDbContextFactory.cs",
+              "RelativeDocumentMoniker": "TakeAPeek-server\\DataAccess\\DesignTimeDbContextFactory.cs",
+              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\DataAccess\\DesignTimeDbContextFactory.cs",
+              "RelativeToolTip": "TakeAPeek-server\\DataAccess\\DesignTimeDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T12:30:31.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IDataContext.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\DataAccess\\IDataContext.cs",
+              "RelativeDocumentMoniker": "TakeAPeek-server\\DataAccess\\IDataContext.cs",
+              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\DataAccess\\IDataContext.cs",
+              "RelativeToolTip": "TakeAPeek-server\\DataAccess\\IDataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T03:37:03.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "CollageService.cs",
               "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\Services\\CServices\\CollageService.cs",
               "RelativeDocumentMoniker": "TakeAPeek-server\\Services\\CServices\\CollageService.cs",
               "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\Services\\CServices\\CollageService.cs",
               "RelativeToolTip": "TakeAPeek-server\\Services\\CServices\\CollageService.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAwBkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-10T18:42:38.585Z",
               "EditorCaption": ""
@@ -301,6 +364,95 @@
             {
               "$type": "Document",
               "DocumentIndex": 15,
+              "Title": "20250316124634_TakeAPeek.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\Migrations\\20250316124634_TakeAPeek.cs",
+              "RelativeDocumentMoniker": "TakeAPeek-server\\Migrations\\20250316124634_TakeAPeek.cs",
+              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\Migrations\\20250316124634_TakeAPeek.cs",
+              "RelativeToolTip": "TakeAPeek-server\\Migrations\\20250316124634_TakeAPeek.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T12:46:35.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\DataAccess\\DataContext.cs",
+              "RelativeDocumentMoniker": "TakeAPeek-server\\DataAccess\\DataContext.cs",
+              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\DataAccess\\DataContext.cs",
+              "RelativeToolTip": "TakeAPeek-server\\DataAccess\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T03:37:20.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Collage.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\Entities\\Collage.cs",
+              "RelativeDocumentMoniker": "TakeAPeek-server\\Entities\\Collage.cs",
+              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\Entities\\Collage.cs",
+              "RelativeToolTip": "TakeAPeek-server\\Entities\\Collage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T16:20:32.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "File.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\Entities\\File.cs",
+              "RelativeDocumentMoniker": "TakeAPeek-server\\Entities\\File.cs",
+              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\Entities\\File.cs",
+              "RelativeToolTip": "TakeAPeek-server\\Entities\\File.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T16:17:22.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TakeAPeek-server.csproj",
+              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\TakeAPeek-server.csproj",
+              "RelativeDocumentMoniker": "TakeAPeek-server\\TakeAPeek-server.csproj",
+              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\TakeAPeek-server.csproj",
+              "RelativeToolTip": "TakeAPeek-server\\TakeAPeek-server.csproj",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwBIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-09T02:53:17.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\Services\\CServices\\FileService.cs",
+              "RelativeDocumentMoniker": "TakeAPeek-server\\Services\\CServices\\FileService.cs",
+              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\Services\\CServices\\FileService.cs",
+              "RelativeToolTip": "TakeAPeek-server\\Services\\CServices\\FileService.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAmwBsAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T17:41:37.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FolderService.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\Services\\CServices\\FolderService.cs",
+              "RelativeDocumentMoniker": "TakeAPeek-server\\Services\\CServices\\FolderService.cs",
+              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\Services\\CServices\\FolderService.cs",
+              "RelativeToolTip": "TakeAPeek-server\\Services\\CServices\\FolderService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAIAwwCEAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T18:17:12.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
               "Title": "ICollageService.cs",
               "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\Services\\IServices\\ICollageService.cs",
               "RelativeDocumentMoniker": "TakeAPeek-server\\Services\\IServices\\ICollageService.cs",
@@ -308,12 +460,11 @@
               "RelativeToolTip": "TakeAPeek-server\\Services\\IServices\\ICollageService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T17:39:43.236Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T17:39:43.236Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 26,
               "Title": "IFolderService.cs",
               "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\Services\\IServices\\IFolderService.cs",
               "RelativeDocumentMoniker": "TakeAPeek-server\\Services\\IServices\\IFolderService.cs",
@@ -321,12 +472,11 @@
               "RelativeToolTip": "TakeAPeek-server\\Services\\IServices\\IFolderService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T17:35:52.661Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T17:35:52.661Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 24,
               "Title": "TagService.cs",
               "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\Services\\CServices\\TagService.cs",
               "RelativeDocumentMoniker": "TakeAPeek-server\\Services\\CServices\\TagService.cs",
@@ -334,12 +484,11 @@
               "RelativeToolTip": "TakeAPeek-server\\Services\\CServices\\TagService.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAcwCEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T18:27:04.249Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T18:27:04.249Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 27,
               "Title": "Interface.cs",
               "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\Services\\IServices\\Interface.cs",
               "RelativeDocumentMoniker": "TakeAPeek-server\\Services\\IServices\\Interface.cs",
@@ -347,12 +496,11 @@
               "RelativeToolTip": "TakeAPeek-server\\Services\\IServices\\Interface.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T17:06:59.933Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T17:06:59.933Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 28,
               "Title": "ITagService.cs",
               "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\Services\\IServices\\ITagService.cs",
               "RelativeDocumentMoniker": "TakeAPeek-server\\Services\\IServices\\ITagService.cs",
@@ -360,38 +508,11 @@
               "RelativeToolTip": "TakeAPeek-server\\Services\\IServices\\ITagService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T17:37:57.35Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T17:37:57.35Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "IDataContext.cs",
-              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\DataAccess\\IDataContext.cs",
-              "RelativeDocumentMoniker": "TakeAPeek-server\\DataAccess\\IDataContext.cs",
-              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\DataAccess\\IDataContext.cs",
-              "RelativeToolTip": "TakeAPeek-server\\DataAccess\\IDataContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T03:37:03.39Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Collage.cs",
-              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\Entities\\Collage.cs",
-              "RelativeDocumentMoniker": "TakeAPeek-server\\Entities\\Collage.cs",
-              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\Entities\\Collage.cs",
-              "RelativeToolTip": "TakeAPeek-server\\Entities\\Collage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T16:20:32.519Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 29,
               "Title": "Tag.cs",
               "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\Entities\\Tag.cs",
               "RelativeDocumentMoniker": "TakeAPeek-server\\Entities\\Tag.cs",
@@ -399,12 +520,11 @@
               "RelativeToolTip": "TakeAPeek-server\\Entities\\Tag.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T16:19:54.538Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T16:19:54.538Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 30,
               "Title": "Folder.cs",
               "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\Entities\\Folder.cs",
               "RelativeDocumentMoniker": "TakeAPeek-server\\Entities\\Folder.cs",
@@ -412,34 +532,7 @@
               "RelativeToolTip": "TakeAPeek-server\\Entities\\Folder.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T16:18:26.095Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "File.cs",
-              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\Entities\\File.cs",
-              "RelativeDocumentMoniker": "TakeAPeek-server\\Entities\\File.cs",
-              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\Entities\\File.cs",
-              "RelativeToolTip": "TakeAPeek-server\\Entities\\File.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAQAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T16:17:22.144Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "TakeAPeek-server\\Entities\\User.cs",
-              "ToolTip": "D:\\\u05EA\u05DB\u05E0\u05D5\u05EA- \u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05D5\u0027\\practicom-TakeaPeek\\TakeaPeek-server\\TakeAPeek-server\\TakeAPeek-server\\Entities\\User.cs",
-              "RelativeToolTip": "TakeAPeek-server\\Entities\\User.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T02:59:46.431Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T16:18:26.095Z"
             }
           ]
         }
