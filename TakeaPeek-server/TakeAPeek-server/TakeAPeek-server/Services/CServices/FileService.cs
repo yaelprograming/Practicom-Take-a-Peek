@@ -1,12 +1,12 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using TakeAPeek_server.DataAccess;
+using TakeAPeek_server.Entities;
 using TakeAPeek_server.Services.IServices;
 
 namespace TakeAPeek_server.Services.CServices
 {
     public class FileService : IFileService
     {
-        // Assume _context is your database context
         private readonly DataContext _context;
 
         public FileService(DataContext context)
@@ -14,57 +14,75 @@ namespace TakeAPeek_server.Services.CServices
             _context = context;
         }
 
-        public async Task<TakeAPeek_server.Entities.File> GetFileAsync(int id) => await _context.Files.FindAsync(id);
+        public async Task<TakeAPeek_server.Entities.File> GetFile(int id) => await _context.Files.Where(f => f.Id == id && !f.IsDeleted).FirstOrDefaultAsync();
 
-        public async Task<IEnumerable<TakeAPeek_server.Entities.File>> GetAllFilesAsync() => await _context.Files.ToListAsync();
+        public async Task<IEnumerable<TakeAPeek_server.Entities.File>> GetAllFiles() 
+        {
+            return await _context.Files.Where(f => !f.IsDeleted).ToListAsync();
+        }
 
-        public async Task<TakeAPeek_server.Entities.File> CreateFileAsync(TakeAPeek_server.Entities.File file)
+        public async Task<TakeAPeek_server.Entities.File> CreateFile(TakeAPeek_server.Entities.File file)
         {
             _context.Files.Add(file);
             await _context.SaveChangesAsync();
             return file;
         }
 
-        public async Task<TakeAPeek_server.Entities.File> UpdateFileAsync(TakeAPeek_server.Entities.File file)
+        public async Task<TakeAPeek_server.Entities.File> UpdateFile(TakeAPeek_server.Entities.File file)
         {
             _context.Files.Update(file);
             await _context.SaveChangesAsync();
             return file;
         }
 
-        public async Task<bool> DeleteFileAsync(int id)
+        public async Task<bool> DeleteFile(int id)
         {
-            TakeAPeek_server.Entities.File file = await GetFileAsync(id);
+            TakeAPeek_server.Entities.File file = await GetFile(id);
             if (file == null) return false;
 
-            _context.Files.Remove(file);
+            file.IsDeleted = true; 
+            _context.Files.Update(file);
             await _context.SaveChangesAsync();
             return true;
         }
 
-        public Task<Entities.File> GetFile(int id)
+        public async Task<bool> RestoreFile(int id)
         {
-            throw new NotImplementedException();
+            var file = await _context.Files
+                .Where(f => f.Id == id && f.IsDeleted)
+                .FirstOrDefaultAsync();
+            if (file == null) return false;
+
+            file.IsDeleted = false; 
+            _context.Files.Update(file);
+            await _context.SaveChangesAsync();
+            return true;
         }
 
-        public Task<IEnumerable<Entities.File>> GetAllFiles()
+
+        //מחזיר את תקית האבא
+        public async Task<Folder> GetParentFolderAsync(int fileId)
         {
-            throw new NotImplementedException();
+            // מציאת התיקיה לפי ה-ID שלה
+            var file = await _context.Files.FindAsync(fileId);
+            return file?.FolderId != null ? await _context.Folders.FindAsync(file.FolderId) : null;
+        }
+        //שליפה לפי תקיה
+        public async Task<IEnumerable<TakeAPeek_server.Entities.File>> GetFilesByFolder(int folderId)
+        {
+            return await _context.Files
+                .Where(f => f.FolderId == folderId && !f.IsDeleted)
+                .ToListAsync();
         }
 
-        public Task<Entities.File> CreateFile(TakeAPeek_server.Entities.File file)
+        //?
+        public async Task<IEnumerable<TakeAPeek_server.Entities.File>> GetFilesByFolderId(int folderId)
         {
-            throw new NotImplementedException();
+            return await _context.Files
+                .Where(f => f.FolderId == folderId) // הנחה שיש לך שדה FolderId
+                .ToListAsync();
         }
 
-        public Task<Entities.File> UpdateFile(TakeAPeek_server.Entities.File file)
-        {
-            throw new NotImplementedException();
-        }
-
-        public Task<bool> DeleteFile(int id)
-        {
-            throw new NotImplementedException();
-        }
     }
 }
+

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TakeAPeek-server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2053bb98503e40f1bf5c9b1c34f0d079252c47f7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+583346c0241bdf191b3978ccd30390af306c1f81")]
 [assembly: System.Reflection.AssemblyProductAttribute("TakeAPeek-server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TakeAPeek-server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

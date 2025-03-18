@@ -85,7 +85,20 @@ builder.Services.AddSwaggerGen(c =>
     //?
 });
 
+//cors
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowAll", policy =>
+    {
+        policy.AllowAnyOrigin()
+              .AllowAnyMethod()
+              .AllowAnyHeader();
+    });
+});
+//
+
 var app = builder.Build();
+app.UseCors("AllowAll");
 
 // =========== run Swagger ============
 app.UseSwagger();
