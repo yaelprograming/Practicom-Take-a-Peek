@@ -170,3 +170,5 @@ D:\תכנות- לימודים\ו'\practicom-TakeaPeek\TakeaPeek-server\TakeAPeek
 D:\תכנות- לימודים\ו'\practicom-TakeaPeek\TakeaPeek-server\TakeAPeek-server\TakeAPeek-server\bin\Debug\net9.0\System.Text.Json.dll
 D:\תכנות- לימודים\ו'\practicom-TakeaPeek\TakeaPeek-server\TakeAPeek-server\TakeAPeek-server\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 D:\תכנות- לימודים\ו'\practicom-TakeaPeek\TakeaPeek-server\TakeAPeek-server\TakeAPeek-server\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\תכנות- לימודים\ו'\practicom-TakeaPeek\TakeaPeek-server\TakeAPeek-server\TakeAPeek-server\bin\Debug\net9.0\NLog.config
+D:\תכנות- לימודים\ו'\practicom-TakeaPeek\TakeaPeek-server\TakeAPeek-server\TakeAPeek-server\bin\Debug\net9.0\NLog.dll

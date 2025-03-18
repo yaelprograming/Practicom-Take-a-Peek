@@ -19,7 +19,7 @@ namespace TakeAPeek_server.Services.CServices
             await _context.SaveChangesAsync();
             return folder;
         }
-     
+
         public async Task<bool> DeleteFolder(int id)
         {
             var folder = await GetFolder(id);
@@ -29,6 +29,7 @@ namespace TakeAPeek_server.Services.CServices
             var childFolders = await _context.Folders
                 .Where(f => f.ParentFolderId == id && !f.IsDeleted)
                 .ToListAsync();
+
             foreach (var child in childFolders)
             {
                 await DeleteFolder(child.Id); // מחיקה רכה של התיקיות הילדים
@@ -38,6 +39,7 @@ namespace TakeAPeek_server.Services.CServices
             var files = await _context.Files
                 .Where(f => f.FolderId == id && !f.IsDeleted)
                 .ToListAsync();
+
             foreach (var file in files)
             {
                 file.IsDeleted = true; // שינוי ל-Soft Delete
@@ -47,9 +49,13 @@ namespace TakeAPeek_server.Services.CServices
             // שינוי ל-Soft Delete לתיקיה הנוכחית
             folder.IsDeleted = true;
             _context.Folders.Update(folder);
+
+            // שמירה על השינויים
             await _context.SaveChangesAsync();
+
             return true;
         }
+
 
         public async Task<IEnumerable<Folder>> GetAllFolders() => await _context.Folders.Where(f => !f.IsDeleted).ToListAsync();
 
@@ -101,8 +107,9 @@ namespace TakeAPeek_server.Services.CServices
         //?
         public async Task<IEnumerable<Folder>> GetFoldersByParentId(int parentId)
         {
+            
             return await _context.Folders
-                .Where(f => f.ParentFolderId == parentId) 
+                .Where(f => f.ParentFolderId == parentId || parentId == 0 && f.ParentFolderId == null)
                 .ToListAsync();
         }
 

@@ -1,14 +1,19 @@
 ﻿namespace TakeAPeek_server.Controllers
 {
     using Microsoft.AspNetCore.Builder;
+    using NLog;
     using TakeAPeek_server.Entities;
     using TakeAPeek_server.Services.IServices;
 
 
     public static class FolderEndpoints
     {
+        
         public static void MapFolderEndpoints(WebApplication app)
         {
+            var logger = LogManager.GetCurrentClassLogger();
+            LogManager.LoadConfiguration("NLog.config");
+
             app.MapGet("/folders", async (IFolderService folderService) => await folderService.GetAllFolders());//.RequireAuthorization();
 
             app.MapGet("/folders/{id}", async (int id, IFolderService folderService) => await folderService.GetFolder(id));//.RequireAuthorization();
@@ -24,26 +29,6 @@
             app.MapDelete("/folders/{id}", async (int id, IFolderService folderService) => await folderService.DeleteFolder(id));//.RequireAuthorization("Editor", "Admin");
 
             //תקיה עם כל התוכן שבתוכה
-            //app.MapGet("/folders/{id}/contents", async (int id, IFolderService folderService, IFileService fileService) =>
-            //{
-            //    var folder = await folderService.GetFolder(id);
-            //    if (folder == null) return Results.NotFound();
-            //    var subFolders = await folderService.GetAllFolders();
-            //    var files = await fileService.GetAllFiles();
-            //    return Results.Ok(new { folders = subFolders, files = files });
-            //});
-            //app.MapGet("/folders/{id?}/contents", async (int? id, IFolderService folderService, IFileService fileService) =>
-            //{
-            //    int folderId = id ?? 0; // אם אין ID, חפש בתיקיית השורש (נניח שזה 0)
-
-            //    var folder = folderId == 0 ? null : await folderService.GetFolder(folderId);
-            //    if (folderId != 0 && folder == null) return Results.NotFound("Folder not found");
-
-            //    var subFolders = await folderService.GetAllFolders(); // שלוף את כל התקיות
-            //    var files = await fileService.GetAllFiles(); // שלוף את כל הקבצים
-
-            //    return Results.Ok(new { folders = subFolders, files = files });
-            //});
 
             app.MapGet("/folders/{id?}/contents", async (int? id, IFolderService folderService, IFileService fileService) =>
             {
@@ -53,6 +38,7 @@
                 if (folderId != 0 && folder == null) return Results.NotFound("Folder not found");
 
                 // כאן אתה שולף את התיקיות והקבצים תחת התיקיה הנוכחית
+                //var current = await folderService.GetParentFolderAsync(folderId);
                 var subFolders = await folderService.GetFoldersByParentId(folderId); // שלוף את התיקיות תחת התיקיה הנוכחית
                 var files = await fileService.GetFilesByFolderId(folderId); // שלוף את הקבצים תחת התיקיה הנוכחית
 
